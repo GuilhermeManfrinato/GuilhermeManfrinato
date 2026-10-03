@@ -7,10 +7,10 @@
 </div>
 <br>
 <p align="center">
- <a href="https://www.linkedin.com/in/monfrinato/" target="_blank">
+ <a href="https://www.linkedin.com/in/manfrinato/" target="_blank">
   <img src="https://img.shields.io/badge/guilherme_monfrinato-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/monfrinato/" />
  </a>
- <a href="mailto:guilherme.monfrinato.santos@gmail.com" target="_blank">
+ <a href="mailto:manfrinato2007@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/guilherme.contato@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:guilherme.monfrinato.santos@gmail.com"/>
  </a>
 
@@ -42,10 +42,10 @@
 <br/>
   
  <div align="center">
-  <a href="https://github.com/guilhermemonfrinato">
+  <a href="https://github.com/guilhermemanfrinato">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=guilhermemonfrinato&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 <br/>
-<a href="https://github.com/guilhermemonfrinato" target="_blank">
+<a href="https://github.com/guilhermemanfrinato" target="_blank">
   <img src="https://komarev.com/ghpvc/?username=guilhermemonfrinato&color=006bed" />
  </a>
 </div>
