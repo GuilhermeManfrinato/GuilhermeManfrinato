@@ -46,6 +46,6 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=guilhermemonfrinato&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 <br/>
 <a href="https://github.com/guilhermemanfrinato" target="_blank">
-  <img src="https://komarev.com/ghpvc/?username=guilhermemanfrinato&color=006bed" />
+  <img src="https://komarev.com/ghpvc/?username=guilhermemanfrinato&color=00FF00"/>
  </a>
 </div>
