@@ -36,7 +36,7 @@
   <img src="https://img.shields.io/badge/JAVA-FF0909?style=for-the-badge&logo=java&logoColor=white"/>
  </a>
  <a>
-  <img src="https://img.shields.io/badge/TYPESCRIPT-FF0909?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TYPESCRIPT-00FF00?style=for-the-badge&logo=typescript&logoColor=white"/>
  </a>
  </p>  
 
