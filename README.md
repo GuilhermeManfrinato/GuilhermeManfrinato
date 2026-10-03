@@ -8,7 +8,7 @@
 <br>
 <p align="center">
  <a href="https://www.linkedin.com/in/manfrinato/" target="_blank">
-  <img src="https://img.shields.io/badge/guilherme_monfrinato-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/monfrinato/" />
+  <img src="https://img.shields.io/badge/guilherme_monfrinato-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/manfrinato/" />
  </a>
  <a href="mailto:manfrinato2007@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/guilherme.contato@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:guilherme.monfrinato.santos@gmail.com"/>
