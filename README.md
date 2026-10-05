@@ -2,7 +2,9 @@
 <h3 >
      Seja bem-vindo ao meu perfil!
 </h3>
-<code> Atualmente estudando programação aplicada á containers, baseada em IA-code.<br/>Utilizo disso para aprendizado e também para melhora das técnicas já aprendidas por mim em projetos anteriores.</code>
+<code> Atualmente estudando programação aplicada á containers, baseada em IA-code.</code>
+     <br/>
+<code>Utilizo disso para aprendizado e também para melhora das técnicas já aprendidas por mim em projetos anteriores.</code>
 
 </div>
 <br>
